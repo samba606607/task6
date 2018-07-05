@@ -1,0 +1,35 @@
+header{
+  background-color: blue;
+  color: pink;
+  padding: 1%;
+  text-align: center;
+  box-shadow: 2px 2px 2px orange;
+}
+.main{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1%;
+  box-sizing: border-box;
+}
+.subdiv{
+  width: 33.3%;
+  border: 1px solid #ddd;
+  box-shadow: 3px 3px 3px #ddd;
+  padding: 1%;
+  margin: 2%;
+}
+@media only screen  (min-width:320px) and (max-width:480px){
+  
+
+}
+
+@media only screen  (min-width:481px) and (max-width:768px){
+
+
+}
+
+@media only screen  (min-width:769px) and (max-width:1024px){
+
+
+}

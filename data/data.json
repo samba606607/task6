@@ -1,0 +1,24 @@
+{
+  "profiles":[
+    {
+      "name":"Samba",
+      "label":"DBA",
+      "company":"Infosys"
+    },
+    {
+      "name":"Sai Harsha",
+      "label":"Front end",
+      "company":"Polaris"
+    },
+    {
+      "name":"Mouni Sameera",
+      "label":"Tech-lead",
+      "company":"CA"
+    },
+    {
+      "name":"pavani Nikitha",
+      "label":"Developer",
+      "company":"IBM"
+    }
+  ]
+}
